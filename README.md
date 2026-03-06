@@ -1,12 +1,12 @@
 # CSE-2022-2026-Batch-A5
 
-AI-Powered Handwritten Answer Sheet Evaluation System
+## AI-Powered Handwritten Answer Sheet Evaluation System
 
-## Team Members
+### Team Members
 
 This project was developed by the following team members:
 
-1. Likhitha Rayankula 
+1. R Likhitha 
 2. M Sunitha 
 3. P Prathibha
 
